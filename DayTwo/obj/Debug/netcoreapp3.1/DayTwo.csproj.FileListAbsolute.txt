@@ -1,0 +1,14 @@
+C:\Users\walkerga\source\repos\adventofcode2020\DayTwo\bin\Debug\netcoreapp3.1\DayTwo.exe
+C:\Users\walkerga\source\repos\adventofcode2020\DayTwo\bin\Debug\netcoreapp3.1\DayTwo.deps.json
+C:\Users\walkerga\source\repos\adventofcode2020\DayTwo\bin\Debug\netcoreapp3.1\DayTwo.runtimeconfig.json
+C:\Users\walkerga\source\repos\adventofcode2020\DayTwo\bin\Debug\netcoreapp3.1\DayTwo.runtimeconfig.dev.json
+C:\Users\walkerga\source\repos\adventofcode2020\DayTwo\bin\Debug\netcoreapp3.1\DayTwo.dll
+C:\Users\walkerga\source\repos\adventofcode2020\DayTwo\bin\Debug\netcoreapp3.1\DayTwo.pdb
+C:\Users\walkerga\source\repos\adventofcode2020\DayTwo\obj\Debug\netcoreapp3.1\DayTwo.csprojAssemblyReference.cache
+C:\Users\walkerga\source\repos\adventofcode2020\DayTwo\obj\Debug\netcoreapp3.1\DayTwo.AssemblyInfoInputs.cache
+C:\Users\walkerga\source\repos\adventofcode2020\DayTwo\obj\Debug\netcoreapp3.1\DayTwo.AssemblyInfo.cs
+C:\Users\walkerga\source\repos\adventofcode2020\DayTwo\obj\Debug\netcoreapp3.1\DayTwo.csproj.CoreCompileInputs.cache
+C:\Users\walkerga\source\repos\adventofcode2020\DayTwo\obj\Debug\netcoreapp3.1\DayTwo.dll
+C:\Users\walkerga\source\repos\adventofcode2020\DayTwo\obj\Debug\netcoreapp3.1\DayTwo.pdb
+C:\Users\walkerga\source\repos\adventofcode2020\DayTwo\obj\Debug\netcoreapp3.1\DayTwo.genruntimeconfig.cache
+C:\Users\walkerga\source\repos\adventofcode2020\DayTwo\bin\Debug\netcoreapp3.1\day2input.txt
