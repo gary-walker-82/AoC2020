@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\DayTwo\\DayTwo.csproj": {}
+    "C:\\SourceCode\\AoC2020\\DayTwo\\DayTwo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\DayTwo\\DayTwo.csproj": {
+    "C:\\SourceCode\\AoC2020\\DayTwo\\DayTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\DayTwo\\DayTwo.csproj",
+        "projectUniqueName": "C:\\SourceCode\\AoC2020\\DayTwo\\DayTwo.csproj",
         "projectName": "DayTwo",
-        "projectPath": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\DayTwo\\DayTwo.csproj",
+        "projectPath": "C:\\SourceCode\\AoC2020\\DayTwo\\DayTwo.csproj",
         "packagesPath": "C:\\Users\\walkerga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\DayTwo\\obj\\",
+        "outputPath": "C:\\SourceCode\\AoC2020\\DayTwo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,13 +23,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -40,7 +41,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -56,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

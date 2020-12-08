@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
+    "net5.0": {
       "Microsoft.CodeCoverage/16.4.0": {
         "type": "package",
         "compile": {
@@ -1237,7 +1237,7 @@
       },
       "adventofcode2020/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "morelinq": "3.3.2"
         },
@@ -1246,6 +1246,16 @@
         },
         "runtime": {
           "bin/placeholder/adventofcode2020.dll": {}
+        }
+      },
+      "DayFive/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DayFive.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DayFive.dll": {}
         }
       }
     }
@@ -4616,10 +4626,16 @@
       "type": "project",
       "path": "../adventofcode2020/adventofcode2020.csproj",
       "msbuildProject": "../adventofcode2020/adventofcode2020.csproj"
+    },
+    "DayFive/1.0.0": {
+      "type": "project",
+      "path": "../DayFive/DayFive.csproj",
+      "msbuildProject": "../DayFive/DayFive.csproj"
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
+    "net5.0": [
+      "DayFive >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.4.0",
       "NUnit3TestAdapter >= 3.15.1",
       "adventofcode2020 >= 1.0.0",
@@ -4634,11 +4650,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\AdventOfCode2020.Tests\\AdventOfCode2020.Tests.csproj",
+      "projectUniqueName": "C:\\SourceCode\\AoC2020\\AdventOfCode2020.Tests\\AdventOfCode2020.Tests.csproj",
       "projectName": "AdventOfCode2020.Tests",
-      "projectPath": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\AdventOfCode2020.Tests\\AdventOfCode2020.Tests.csproj",
+      "projectPath": "C:\\SourceCode\\AoC2020\\AdventOfCode2020.Tests\\AdventOfCode2020.Tests.csproj",
       "packagesPath": "C:\\Users\\walkerga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\AdventOfCode2020.Tests\\obj\\",
+      "outputPath": "C:\\SourceCode\\AoC2020\\AdventOfCode2020.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4650,16 +4666,20 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\adventofcode2020\\adventofcode2020.csproj": {
-              "projectPath": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\adventofcode2020\\adventofcode2020.csproj"
+            "C:\\SourceCode\\AoC2020\\adventofcode2020\\adventofcode2020.csproj": {
+              "projectPath": "C:\\SourceCode\\AoC2020\\adventofcode2020\\adventofcode2020.csproj"
+            },
+            "C:\\SourceCode\\AoC2020\\DayFive\\DayFive.csproj": {
+              "projectPath": "C:\\SourceCode\\AoC2020\\DayFive\\DayFive.csproj"
             }
           }
         }
@@ -4671,7 +4691,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
+      "net5.0": {
+        "targetAlias": "net5.0",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -4701,7 +4722,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

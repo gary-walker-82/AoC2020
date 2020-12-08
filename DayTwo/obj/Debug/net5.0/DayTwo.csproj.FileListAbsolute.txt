@@ -1,0 +1,17 @@
+C:\SourceCode\AoC2020\DayTwo\bin\Debug\net5.0\DayTwo.exe
+C:\SourceCode\AoC2020\DayTwo\bin\Debug\net5.0\day2input.txt
+C:\SourceCode\AoC2020\DayTwo\bin\Debug\net5.0\DayTwo.deps.json
+C:\SourceCode\AoC2020\DayTwo\bin\Debug\net5.0\DayTwo.runtimeconfig.json
+C:\SourceCode\AoC2020\DayTwo\bin\Debug\net5.0\DayTwo.runtimeconfig.dev.json
+C:\SourceCode\AoC2020\DayTwo\bin\Debug\net5.0\DayTwo.dll
+C:\SourceCode\AoC2020\DayTwo\bin\Debug\net5.0\ref\DayTwo.dll
+C:\SourceCode\AoC2020\DayTwo\bin\Debug\net5.0\DayTwo.pdb
+C:\SourceCode\AoC2020\DayTwo\obj\Debug\net5.0\DayTwo.csprojAssemblyReference.cache
+C:\SourceCode\AoC2020\DayTwo\obj\Debug\net5.0\DayTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\AoC2020\DayTwo\obj\Debug\net5.0\DayTwo.AssemblyInfoInputs.cache
+C:\SourceCode\AoC2020\DayTwo\obj\Debug\net5.0\DayTwo.AssemblyInfo.cs
+C:\SourceCode\AoC2020\DayTwo\obj\Debug\net5.0\DayTwo.csproj.CoreCompileInputs.cache
+C:\SourceCode\AoC2020\DayTwo\obj\Debug\net5.0\DayTwo.dll
+C:\SourceCode\AoC2020\DayTwo\obj\Debug\net5.0\ref\DayTwo.dll
+C:\SourceCode\AoC2020\DayTwo\obj\Debug\net5.0\DayTwo.pdb
+C:\SourceCode\AoC2020\DayTwo\obj\Debug\net5.0\DayTwo.genruntimeconfig.cache

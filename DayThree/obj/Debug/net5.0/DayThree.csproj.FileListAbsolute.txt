@@ -1,0 +1,17 @@
+C:\SourceCode\AoC2020\DayThree\bin\Debug\net5.0\DayThree.exe
+C:\SourceCode\AoC2020\DayThree\bin\Debug\net5.0\day3input.txt
+C:\SourceCode\AoC2020\DayThree\bin\Debug\net5.0\DayThree.deps.json
+C:\SourceCode\AoC2020\DayThree\bin\Debug\net5.0\DayThree.runtimeconfig.json
+C:\SourceCode\AoC2020\DayThree\bin\Debug\net5.0\DayThree.runtimeconfig.dev.json
+C:\SourceCode\AoC2020\DayThree\bin\Debug\net5.0\DayThree.dll
+C:\SourceCode\AoC2020\DayThree\bin\Debug\net5.0\ref\DayThree.dll
+C:\SourceCode\AoC2020\DayThree\bin\Debug\net5.0\DayThree.pdb
+C:\SourceCode\AoC2020\DayThree\obj\Debug\net5.0\DayThree.csprojAssemblyReference.cache
+C:\SourceCode\AoC2020\DayThree\obj\Debug\net5.0\DayThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\AoC2020\DayThree\obj\Debug\net5.0\DayThree.AssemblyInfoInputs.cache
+C:\SourceCode\AoC2020\DayThree\obj\Debug\net5.0\DayThree.AssemblyInfo.cs
+C:\SourceCode\AoC2020\DayThree\obj\Debug\net5.0\DayThree.csproj.CoreCompileInputs.cache
+C:\SourceCode\AoC2020\DayThree\obj\Debug\net5.0\DayThree.dll
+C:\SourceCode\AoC2020\DayThree\obj\Debug\net5.0\ref\DayThree.dll
+C:\SourceCode\AoC2020\DayThree\obj\Debug\net5.0\DayThree.pdb
+C:\SourceCode\AoC2020\DayThree\obj\Debug\net5.0\DayThree.genruntimeconfig.cache

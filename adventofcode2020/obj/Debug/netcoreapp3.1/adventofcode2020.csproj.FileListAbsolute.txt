@@ -13,3 +13,17 @@ C:\Users\walkerga\source\repos\adventofcode2020\adventofcode2020\obj\Debug\netco
 C:\Users\walkerga\source\repos\adventofcode2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.csproj.CoreCompileInputs.cache
 C:\Users\walkerga\source\repos\adventofcode2020\adventofcode2020\bin\Debug\netcoreapp3.1\MoreLinq.dll
 C:\Users\walkerga\source\repos\adventofcode2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.csproj.CopyComplete
+C:\Users\walkerga\Source\Repos\AoC2020\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.exe
+C:\Users\walkerga\Source\Repos\AoC2020\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.deps.json
+C:\Users\walkerga\Source\Repos\AoC2020\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.runtimeconfig.json
+C:\Users\walkerga\Source\Repos\AoC2020\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.runtimeconfig.dev.json
+C:\Users\walkerga\Source\Repos\AoC2020\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.dll
+C:\Users\walkerga\Source\Repos\AoC2020\adventofcode2020\bin\Debug\netcoreapp3.1\adventofcode2020.pdb
+C:\Users\walkerga\Source\Repos\AoC2020\adventofcode2020\bin\Debug\netcoreapp3.1\MoreLinq.dll
+C:\Users\walkerga\Source\Repos\AoC2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.csprojAssemblyReference.cache
+C:\Users\walkerga\Source\Repos\AoC2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.AssemblyInfoInputs.cache
+C:\Users\walkerga\Source\Repos\AoC2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.AssemblyInfo.cs
+C:\Users\walkerga\Source\Repos\AoC2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.csproj.CopyComplete
+C:\Users\walkerga\Source\Repos\AoC2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.dll
+C:\Users\walkerga\Source\Repos\AoC2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.pdb
+C:\Users\walkerga\Source\Repos\AoC2020\adventofcode2020\obj\Debug\netcoreapp3.1\adventofcode2020.genruntimeconfig.cache

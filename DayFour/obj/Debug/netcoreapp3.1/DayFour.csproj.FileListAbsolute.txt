@@ -1,0 +1,15 @@
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\bin\Debug\netcoreapp3.1\day4input.txt
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\obj\Debug\netcoreapp3.1\DayFour.csprojAssemblyReference.cache
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\obj\Debug\netcoreapp3.1\DayFour.AssemblyInfoInputs.cache
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\obj\Debug\netcoreapp3.1\DayFour.AssemblyInfo.cs
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\bin\Debug\netcoreapp3.1\DayFour.exe
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\bin\Debug\netcoreapp3.1\DayFour.deps.json
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\bin\Debug\netcoreapp3.1\DayFour.runtimeconfig.json
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\bin\Debug\netcoreapp3.1\DayFour.runtimeconfig.dev.json
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\bin\Debug\netcoreapp3.1\DayFour.dll
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\bin\Debug\netcoreapp3.1\DayFour.pdb
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\bin\Debug\netcoreapp3.1\MoreLinq.dll
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\obj\Debug\netcoreapp3.1\DayFour.csproj.CopyComplete
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\obj\Debug\netcoreapp3.1\DayFour.dll
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\obj\Debug\netcoreapp3.1\DayFour.pdb
+C:\Users\walkerga\Source\Repos\AoC2020\DayFour\obj\Debug\netcoreapp3.1\DayFour.genruntimeconfig.cache

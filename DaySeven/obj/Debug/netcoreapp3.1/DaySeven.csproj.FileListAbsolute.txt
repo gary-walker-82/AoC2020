@@ -1,0 +1,13 @@
+C:\Users\walkerga\Source\Repos\AoC2020\DaySeven\bin\Debug\netcoreapp3.1\DaySeven.exe
+C:\Users\walkerga\Source\Repos\AoC2020\DaySeven\bin\Debug\netcoreapp3.1\day7input.txt
+C:\Users\walkerga\Source\Repos\AoC2020\DaySeven\bin\Debug\netcoreapp3.1\DaySeven.deps.json
+C:\Users\walkerga\Source\Repos\AoC2020\DaySeven\bin\Debug\netcoreapp3.1\DaySeven.runtimeconfig.json
+C:\Users\walkerga\Source\Repos\AoC2020\DaySeven\bin\Debug\netcoreapp3.1\DaySeven.runtimeconfig.dev.json
+C:\Users\walkerga\Source\Repos\AoC2020\DaySeven\bin\Debug\netcoreapp3.1\DaySeven.dll
+C:\Users\walkerga\Source\Repos\AoC2020\DaySeven\bin\Debug\netcoreapp3.1\DaySeven.pdb
+C:\Users\walkerga\Source\Repos\AoC2020\DaySeven\obj\Debug\netcoreapp3.1\DaySeven.csprojAssemblyReference.cache
+C:\Users\walkerga\Source\Repos\AoC2020\DaySeven\obj\Debug\netcoreapp3.1\DaySeven.AssemblyInfoInputs.cache
+C:\Users\walkerga\Source\Repos\AoC2020\DaySeven\obj\Debug\netcoreapp3.1\DaySeven.AssemblyInfo.cs
+C:\Users\walkerga\Source\Repos\AoC2020\DaySeven\obj\Debug\netcoreapp3.1\DaySeven.dll
+C:\Users\walkerga\Source\Repos\AoC2020\DaySeven\obj\Debug\netcoreapp3.1\DaySeven.pdb
+C:\Users\walkerga\Source\Repos\AoC2020\DaySeven\obj\Debug\netcoreapp3.1\DaySeven.genruntimeconfig.cache

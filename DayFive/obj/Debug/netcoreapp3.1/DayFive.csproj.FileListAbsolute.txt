@@ -1,0 +1,12 @@
+C:\Users\walkerga\Source\Repos\AoC2020\DayFive\bin\Debug\netcoreapp3.1\DayFive.exe
+C:\Users\walkerga\Source\Repos\AoC2020\DayFive\bin\Debug\netcoreapp3.1\day5input.txt
+C:\Users\walkerga\Source\Repos\AoC2020\DayFive\bin\Debug\netcoreapp3.1\DayFive.deps.json
+C:\Users\walkerga\Source\Repos\AoC2020\DayFive\bin\Debug\netcoreapp3.1\DayFive.runtimeconfig.json
+C:\Users\walkerga\Source\Repos\AoC2020\DayFive\bin\Debug\netcoreapp3.1\DayFive.runtimeconfig.dev.json
+C:\Users\walkerga\Source\Repos\AoC2020\DayFive\bin\Debug\netcoreapp3.1\DayFive.dll
+C:\Users\walkerga\Source\Repos\AoC2020\DayFive\bin\Debug\netcoreapp3.1\DayFive.pdb
+C:\Users\walkerga\Source\Repos\AoC2020\DayFive\obj\Debug\netcoreapp3.1\DayFive.AssemblyInfoInputs.cache
+C:\Users\walkerga\Source\Repos\AoC2020\DayFive\obj\Debug\netcoreapp3.1\DayFive.AssemblyInfo.cs
+C:\Users\walkerga\Source\Repos\AoC2020\DayFive\obj\Debug\netcoreapp3.1\DayFive.dll
+C:\Users\walkerga\Source\Repos\AoC2020\DayFive\obj\Debug\netcoreapp3.1\DayFive.pdb
+C:\Users\walkerga\Source\Repos\AoC2020\DayFive\obj\Debug\netcoreapp3.1\DayFive.genruntimeconfig.cache

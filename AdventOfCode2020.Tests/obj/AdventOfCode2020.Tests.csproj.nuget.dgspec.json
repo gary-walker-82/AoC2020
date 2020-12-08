@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\AdventOfCode2020.Tests\\AdventOfCode2020.Tests.csproj": {}
+    "C:\\SourceCode\\AoC2020\\AdventOfCode2020.Tests\\AdventOfCode2020.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\AdventOfCode2020.Tests\\AdventOfCode2020.Tests.csproj": {
+    "C:\\SourceCode\\AoC2020\\AdventOfCode2020.Tests\\AdventOfCode2020.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\AdventOfCode2020.Tests\\AdventOfCode2020.Tests.csproj",
+        "projectUniqueName": "C:\\SourceCode\\AoC2020\\AdventOfCode2020.Tests\\AdventOfCode2020.Tests.csproj",
         "projectName": "AdventOfCode2020.Tests",
-        "projectPath": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\AdventOfCode2020.Tests\\AdventOfCode2020.Tests.csproj",
+        "projectPath": "C:\\SourceCode\\AoC2020\\AdventOfCode2020.Tests\\AdventOfCode2020.Tests.csproj",
         "packagesPath": "C:\\Users\\walkerga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\AdventOfCode2020.Tests\\obj\\",
+        "outputPath": "C:\\SourceCode\\AoC2020\\AdventOfCode2020.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,16 +23,20 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\adventofcode2020\\adventofcode2020.csproj": {
-                "projectPath": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\adventofcode2020\\adventofcode2020.csproj"
+              "C:\\SourceCode\\AoC2020\\adventofcode2020\\adventofcode2020.csproj": {
+                "projectPath": "C:\\SourceCode\\AoC2020\\adventofcode2020\\adventofcode2020.csproj"
+              },
+              "C:\\SourceCode\\AoC2020\\DayFive\\DayFive.csproj": {
+                "projectPath": "C:\\SourceCode\\AoC2020\\DayFive\\DayFive.csproj"
               }
             }
           }
@@ -44,7 +48,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -74,18 +79,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\adventofcode2020\\adventofcode2020.csproj": {
+    "C:\\SourceCode\\AoC2020\\adventofcode2020\\adventofcode2020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\adventofcode2020\\adventofcode2020.csproj",
+        "projectUniqueName": "C:\\SourceCode\\AoC2020\\adventofcode2020\\adventofcode2020.csproj",
         "projectName": "adventofcode2020",
-        "projectPath": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\adventofcode2020\\adventofcode2020.csproj",
+        "projectPath": "C:\\SourceCode\\AoC2020\\adventofcode2020\\adventofcode2020.csproj",
         "packagesPath": "C:\\Users\\walkerga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\adventofcode2020\\obj\\",
+        "outputPath": "C:\\SourceCode\\AoC2020\\adventofcode2020\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -97,13 +102,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -114,7 +120,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "morelinq": {
               "target": "Package",
@@ -136,7 +143,65 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\SourceCode\\AoC2020\\DayFive\\DayFive.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SourceCode\\AoC2020\\DayFive\\DayFive.csproj",
+        "projectName": "DayFive",
+        "projectPath": "C:\\SourceCode\\AoC2020\\DayFive\\DayFive.csproj",
+        "packagesPath": "C:\\Users\\walkerga\\.nuget\\packages\\",
+        "outputPath": "C:\\SourceCode\\AoC2020\\DayFive\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\walkerga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

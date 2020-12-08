@@ -1,6 +1,7 @@
 using adventofcode2020;
 using NUnit.Framework;
 using System.Linq;
+using DayFive;
 
 namespace AdventOfCode2020.Tests
 {
@@ -9,6 +10,21 @@ namespace AdventOfCode2020.Tests
 		[SetUp]
 		public void Setup()
 		{
+		}
+
+
+		[TestCase("BFFFBBFRRR", 70, 7,567)]
+		[TestCase("FFFBBBFRRR", 14, 7,119)]
+		[TestCase("BBFFBBFRLL", 102, 4,820)]
+		public void PlanTicket(string boardingPass, int row, int seat, int seatId)
+		{
+			//act
+			var actual = new PlaneTicket(boardingPass);
+
+			//assert
+			Assert.That(actual.Row , Is.EqualTo(row));
+			Assert.That(actual.Seat , Is.EqualTo(seat));
+			Assert.That(actual.SeatId , Is.EqualTo(seatId));
 		}
 
 		[Test]

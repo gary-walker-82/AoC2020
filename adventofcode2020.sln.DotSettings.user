@@ -5,32 +5,17 @@
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d55428fe_002D2a7f_002D4fcc_002Dafb8_002D33012cbab31b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Or&gt;&#xD;
-    &lt;Or&gt;&#xD;
-      &lt;Or&gt;&#xD;
-        &lt;Or&gt;&#xD;
-          &lt;Or&gt;&#xD;
-            &lt;TestAncestor&gt;&#xD;
-              &lt;TestId&gt;NUnit3x::78FAA173-B785-44AB-B679-CE45AB4476AE::.NETCoreApp,Version=v3.1::AdventOfCode2020.Tests.Tests.Test1&lt;/TestId&gt;&#xD;
-            &lt;/TestAncestor&gt;&#xD;
-            &lt;TestAncestor&gt;&#xD;
-              &lt;TestId&gt;NUnit3x::78FAA173-B785-44AB-B679-CE45AB4476AE::.NETCoreApp,Version=v3.1::AdventOfCode2020.Tests.Tests.Test2&lt;/TestId&gt;&#xD;
-            &lt;/TestAncestor&gt;&#xD;
-          &lt;/Or&gt;&#xD;
-          &lt;TestAncestor&gt;&#xD;
-            &lt;TestId&gt;NUnit3x::78FAA173-B785-44AB-B679-CE45AB4476AE::.NETCoreApp,Version=v3.1::AdventOfCode2020.Tests.Tests.Test3&lt;/TestId&gt;&#xD;
-          &lt;/TestAncestor&gt;&#xD;
-        &lt;/Or&gt;&#xD;
-        &lt;TestAncestor&gt;&#xD;
-          &lt;TestId&gt;NUnit3x::78FAA173-B785-44AB-B679-CE45AB4476AE::.NETCoreApp,Version=v3.1::AdventOfCode2020.Tests.Tests.Test4&lt;/TestId&gt;&#xD;
-        &lt;/TestAncestor&gt;&#xD;
-      &lt;/Or&gt;&#xD;
-      &lt;TestAncestor&gt;&#xD;
-        &lt;TestId&gt;NUnit3x::78FAA173-B785-44AB-B679-CE45AB4476AE::.NETCoreApp,Version=v3.1::AdventOfCode2020.Tests.Tests.Test5&lt;/TestId&gt;&#xD;
-      &lt;/TestAncestor&gt;&#xD;
-    &lt;/Or&gt;&#xD;
-    &lt;TestAncestor&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::78FAA173-B785-44AB-B679-CE45AB4476AE::.NETCoreApp,Version=v3.1::AdventOfCode2020.Tests.Tests.Test6&lt;/TestId&gt;&#xD;
-    &lt;/TestAncestor&gt;&#xD;
-  &lt;/Or&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::78FAA173-B785-44AB-B679-CE45AB4476AE::.NETCoreApp,Version=v3.1::AdventOfCode2020.Tests.Tests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::78FAA173-B785-44AB-B679-CE45AB4476AE::.NETCoreApp,Version=v3.1::AdventOfCode2020.Tests.Tests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::78FAA173-B785-44AB-B679-CE45AB4476AE::.NETCoreApp,Version=v3.1::AdventOfCode2020.Tests.Tests.Test3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::78FAA173-B785-44AB-B679-CE45AB4476AE::.NETCoreApp,Version=v3.1::AdventOfCode2020.Tests.Tests.Test4&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::78FAA173-B785-44AB-B679-CE45AB4476AE::.NETCoreApp,Version=v3.1::AdventOfCode2020.Tests.Tests.Test5&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::78FAA173-B785-44AB-B679-CE45AB4476AE::.NETCoreApp,Version=v3.1::AdventOfCode2020.Tests.Tests.Test6&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e70a0376_002Debdf_002D483d_002Db554_002D4bfb70feff89/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PlanTicket" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::78FAA173-B785-44AB-B679-CE45AB4476AE::.NETCoreApp,Version=v3.1::AdventOfCode2020.Tests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

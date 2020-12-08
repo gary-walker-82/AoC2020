@@ -1,0 +1,17 @@
+C:\SourceCode\AoC2020\DayFive\bin\Debug\net5.0\DayFive.exe
+C:\SourceCode\AoC2020\DayFive\bin\Debug\net5.0\day5input.txt
+C:\SourceCode\AoC2020\DayFive\bin\Debug\net5.0\DayFive.deps.json
+C:\SourceCode\AoC2020\DayFive\bin\Debug\net5.0\DayFive.runtimeconfig.json
+C:\SourceCode\AoC2020\DayFive\bin\Debug\net5.0\DayFive.runtimeconfig.dev.json
+C:\SourceCode\AoC2020\DayFive\bin\Debug\net5.0\DayFive.dll
+C:\SourceCode\AoC2020\DayFive\bin\Debug\net5.0\ref\DayFive.dll
+C:\SourceCode\AoC2020\DayFive\bin\Debug\net5.0\DayFive.pdb
+C:\SourceCode\AoC2020\DayFive\obj\Debug\net5.0\DayFive.csprojAssemblyReference.cache
+C:\SourceCode\AoC2020\DayFive\obj\Debug\net5.0\DayFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\AoC2020\DayFive\obj\Debug\net5.0\DayFive.AssemblyInfoInputs.cache
+C:\SourceCode\AoC2020\DayFive\obj\Debug\net5.0\DayFive.AssemblyInfo.cs
+C:\SourceCode\AoC2020\DayFive\obj\Debug\net5.0\DayFive.csproj.CoreCompileInputs.cache
+C:\SourceCode\AoC2020\DayFive\obj\Debug\net5.0\DayFive.dll
+C:\SourceCode\AoC2020\DayFive\obj\Debug\net5.0\ref\DayFive.dll
+C:\SourceCode\AoC2020\DayFive\obj\Debug\net5.0\DayFive.pdb
+C:\SourceCode\AoC2020\DayFive\obj\Debug\net5.0\DayFive.genruntimeconfig.cache

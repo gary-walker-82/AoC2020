@@ -1,0 +1,16 @@
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\obj\Debug\netcoreapp3.1\DaySix.csprojAssemblyReference.cache
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\obj\Debug\netcoreapp3.1\DaySix.AssemblyInfoInputs.cache
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\obj\Debug\netcoreapp3.1\DaySix.AssemblyInfo.cs
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\bin\Debug\netcoreapp3.1\DaySix.exe
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\bin\Debug\netcoreapp3.1\day6input.txt
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\bin\Debug\netcoreapp3.1\DaySix.deps.json
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\bin\Debug\netcoreapp3.1\DaySix.runtimeconfig.json
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\bin\Debug\netcoreapp3.1\DaySix.runtimeconfig.dev.json
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\bin\Debug\netcoreapp3.1\DaySix.dll
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\bin\Debug\netcoreapp3.1\DaySix.pdb
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\bin\Debug\netcoreapp3.1\AdventOfCodeSharedLibrary.dll
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\bin\Debug\netcoreapp3.1\AdventOfCodeSharedLibrary.pdb
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\obj\Debug\netcoreapp3.1\DaySix.csproj.CopyComplete
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\obj\Debug\netcoreapp3.1\DaySix.dll
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\obj\Debug\netcoreapp3.1\DaySix.pdb
+C:\Users\walkerga\Source\Repos\AoC2020\DaySix\obj\Debug\netcoreapp3.1\DaySix.genruntimeconfig.cache

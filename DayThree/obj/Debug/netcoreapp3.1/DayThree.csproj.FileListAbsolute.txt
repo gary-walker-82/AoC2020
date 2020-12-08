@@ -1,0 +1,13 @@
+C:\Users\walkerga\Source\Repos\AoC2020\DayThree\bin\Debug\netcoreapp3.1\DayThree.exe
+C:\Users\walkerga\Source\Repos\AoC2020\DayThree\bin\Debug\netcoreapp3.1\day3input.txt
+C:\Users\walkerga\Source\Repos\AoC2020\DayThree\bin\Debug\netcoreapp3.1\DayThree.deps.json
+C:\Users\walkerga\Source\Repos\AoC2020\DayThree\bin\Debug\netcoreapp3.1\DayThree.runtimeconfig.json
+C:\Users\walkerga\Source\Repos\AoC2020\DayThree\bin\Debug\netcoreapp3.1\DayThree.runtimeconfig.dev.json
+C:\Users\walkerga\Source\Repos\AoC2020\DayThree\bin\Debug\netcoreapp3.1\DayThree.dll
+C:\Users\walkerga\Source\Repos\AoC2020\DayThree\bin\Debug\netcoreapp3.1\DayThree.pdb
+C:\Users\walkerga\Source\Repos\AoC2020\DayThree\obj\Debug\netcoreapp3.1\DayThree.csprojAssemblyReference.cache
+C:\Users\walkerga\Source\Repos\AoC2020\DayThree\obj\Debug\netcoreapp3.1\DayThree.AssemblyInfoInputs.cache
+C:\Users\walkerga\Source\Repos\AoC2020\DayThree\obj\Debug\netcoreapp3.1\DayThree.AssemblyInfo.cs
+C:\Users\walkerga\Source\Repos\AoC2020\DayThree\obj\Debug\netcoreapp3.1\DayThree.dll
+C:\Users\walkerga\Source\Repos\AoC2020\DayThree\obj\Debug\netcoreapp3.1\DayThree.pdb
+C:\Users\walkerga\Source\Repos\AoC2020\DayThree\obj\Debug\netcoreapp3.1\DayThree.genruntimeconfig.cache

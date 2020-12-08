@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rzshOZ3LnN2pNTvX9E/6suVSxgw/8ucsGI55fd+wmq21j6mOeHYXTY2uGJ+6P0pkKq26nvFI7zb94Lj4AvMfXQ==",
+  "success": true,
+  "projectFilePath": "C:\\SourceCode\\AoC2020\\DayFour\\DayFour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\walkerga\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

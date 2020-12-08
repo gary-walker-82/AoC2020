@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "luVuu/+OGWMfpjD+nU4HlZoeYpM0CybfQ3uyyqBovz+RxgA8qmi+8vZ3hHJ2ZlQ/KzX4obXpTWzRmpcbgkWQzg==",
+  "dgSpecHash": "+dkEaQp9I2Ragu6T83fCqstmQuAmBbKcPkcbqL/m/VYdlEF4eW2e6sgsa98Cf3nbBO4oGmrI3d3Nkqft0KMcrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\walkerga\\source\\repos\\adventofcode2020\\adventofcode2020\\adventofcode2020.csproj",
+  "projectFilePath": "C:\\SourceCode\\AoC2020\\adventofcode2020\\adventofcode2020.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\walkerga\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
   ],
